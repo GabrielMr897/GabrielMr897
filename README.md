@@ -1,9 +1,8 @@
 ### Olá!!😀
 
+- 👨🏾‍💻  evolving in programming.
+- 🧑🏾‍🎨  Facing the front end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 
 <div align="center">
   <a href="https://github.com/GabrielMr897">
