@@ -1,7 +1,7 @@
 ### Olá!!😀
 
-- 👨🏾‍💻  evolving in programming.
-- 🧑🏾‍🎨  Facing the front end.
+- 👨🏾‍💻 studying programming.
+- 🧑🏾‍🎨 at the moment focused on front-end
 
 
 <div align="center">
