@@ -1,8 +1,6 @@
 ### Olá!!😀
 
 - 👨🏾‍💻 studying programming.
-- 🧑🏾‍🎨 at the moment focused on front-end
-
 
 <div align="center">
   <a href="https://github.com/GabrielMr897">
