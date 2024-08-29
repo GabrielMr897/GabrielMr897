@@ -1,10 +1,7 @@
 ### Olá!!😀
 
 
-
-- 👨🏾‍💻 studying programming.
-- 🖥️ computer science - Estácio.
-- 💻 Software residency - Serratec.
+- 🖥️ studyng computer systems engineering - UFF.
 
 <br>
 
